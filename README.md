@@ -8,3 +8,4 @@ Key Features:
 Efficient Data Handling: The product details (such as title, image, price, etc.) are stored in JavaScript objects, making it easy to update and manage the information.
 
 **Clean and Modular Code:** The code is more maintainable, as the structure for creating and displaying cards is abstracted into functions.
+![Image](https://github.com/user-attachments/assets/3c236106-9aef-4068-9fcc-b79c512f9a8d)
